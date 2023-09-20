@@ -1,0 +1,1 @@
+I dont remove the folder story to keep a trace, i could use rm -r(f) and rmdir to do what is asked
