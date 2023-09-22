@@ -27,6 +27,6 @@ I'd like to gain as much confidence in myself as i can
 ## Things I value the most working as a team
 1. NO BULLIES
 2. Earing other logics than mine
-3. mixing girls/guys (Linked with above)
+3. Mixing girls/guys (Linked with above)
 
 ![Mon gif préféré](https://media.tenor.com/F87SOO1EfkIAAAAM/ytpmv-screaming.gif)
