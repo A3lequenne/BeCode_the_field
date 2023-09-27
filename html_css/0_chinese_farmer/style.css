@@ -1,0 +1,129 @@
+html {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #111111;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+    background-color: linear-gradient(135deg, #D95C5E, #14375A);
+    background-image: url(https://wallpapers.com/images/high/light-color-smoke-art-2ius9lpteovzjquv.webp);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    bottom: 0;
+    right: 0;
+    background-size: cover;
+}
+
+blockquote {
+    width: 50%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+q {
+    font-size: 1.6rem;
+    padding-left: 10px;
+    font-style: italic;
+    background-color: #d3d3d3;
+}
+
+header > blockquote > p > q{
+    background-color: yellow;
+}
+
+.author {
+    border-left: 3px solid firebrick;
+}
+
+.farmer {
+    border-left: 3px solid #b2216a;
+}
+
+.villager {
+    border-left: 3px solid #b26921;
+}
+
+p {
+    letter-spacing: 0.5px;
+    color:#111111;
+}
+
+.good, .bad {
+    text-transform: capitalize;
+}
+
+.bad {
+    color: firebrick;
+}
+
+.good {
+    color: green;
+}
+
+a {
+    color:#001f3f;
+    font-style: italic;
+}
+
+a:visited {
+    color: #4B0082;
+}
+
+a:hover {
+    color: #630606;
+}
+
+table, th, tr, td {
+    border: 1px solid #111111;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+th {
+    background-color: #fff;
+}
+
+tr:nth-child(odd) {
+    background-color: #ccc;
+}
+
+tr:nth-child(even) {
+    background-color: #fff;
+}
+
+.good_img {
+    background-image: url(bien.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 250px;
+}
+
+.bad_img {
+    background-image: url(mal.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 240px;
+}
+
+.cat_img {
+    background-image: url(chat.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 235px;
+}
+
+.flex_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text_container {
+    flex: 1;
+    padding: 10px;
+}
+
+.img_container {
+    flex: 0 0 200px;
+}
